@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hello, I’m Pooja.
 
-I recently graduated in Computer Science from Northern Illinois University. Worked as a Research Assistant in NIU.
+I recently graduated in Computer Science from Northern Illinois University. Worked as a Research Assistant in NIU. And joined Lorsiv Technologies as a Software Engineer
 
 I get excited about the opportunities where I get to engineer technologies that aid people in pursuing productive, distraction-free, and a meaningful life
 
@@ -27,11 +27,11 @@ Currently I'm learning React
 
 My LinkedIn: https://www.linkedin.com/in/pooja-gudibandla/
 
-> Languages: 
-   C++, C, Java, Python, HTML, CSS, JavaScript
+> Languages and Web Technologies: 
+   C++, C, Java, Python, HTML, CSS, JavaScript, React.JS
     
 > Database Systems: 
-   SQL
+   SQL, NoSQL, MongoDB
    
 > Version Control: 
    Git, GitHub
@@ -39,6 +39,9 @@ My LinkedIn: https://www.linkedin.com/in/pooja-gudibandla/
 > Terminals / Environments: 
    cmd, GitBash, node.js
 
+> Tools:
+   Eclipse, Intellij, PuTTy, Visual Studio. PyCHarm, Jupyter Notebook, Docker, Jenkins, JUnit, Selenium
+
 > Favorite Tech Areas: 
-   Web Development, Back end Development
+   Web Development, Back end Development, and Front end Development
 
