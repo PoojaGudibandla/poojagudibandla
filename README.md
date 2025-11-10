@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hello, I’m Pooja.
 
-I recently graduated in Computer Science from Northern Illinois University. Worked as a Research Assistant in NIU. And joined Equifax as a Software Engineer
+I recently graduated in Computer Science from Northern Illinois University. Worked as a Research Assistant in NIU. And joined Lorsiv Technologies as a Software Engineer
 
 I get excited about the opportunities where I get to engineer technologies that aid people in pursuing productive, distraction-free, and a meaningful life
 
